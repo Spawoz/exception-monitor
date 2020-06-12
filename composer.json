@@ -1,6 +1,12 @@
 {
-    "name": "spt/exception-handling",
-    "description": "Package for monitoring exceptions",
+    "name": "spt/exception-monitor",
+    "type": "library",
+    "description": "Package for monitoring exceptions in Laravel",
+    "keywords": [
+        "laravel",
+        "exception-monitor",
+        "exceptions"
+    ],
     "license": "MIT",
     "authors": [
         {
