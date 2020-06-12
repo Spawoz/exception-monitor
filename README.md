@@ -1,4 +1,4 @@
-## SPT Exception Handler for Laravel
+# SPT Exception Handler for Laravel
 
 ## About
 
@@ -34,7 +34,7 @@ php artisan vendor:publish --provider="Spt\ExceptionHandling\ExceptionHandlerSer
 
 This will publish config, views and translation files 
 
-### Recieving E-mail notifiaction for exceptions
+#### Recieving E-mail notifiaction for exceptions
 
 Set the `enable_email` value to true to get email notifiaction.
 use an array of to address to send multiple emails in toEmailAddress
@@ -49,11 +49,11 @@ use an array of to address to send multiple emails in toEmailAddress
     ];
 ```
 
-### Customising Views
+#### Customising Views
 
 After publishing, the default view files will be copied to resources/view/spt-views
 If needed you can edit the email and dashbord views to your custom needs.
 
-### License
+## License
 
 This SPT Exception Handling for Laravel is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
