@@ -1,0 +1,20 @@
+{
+    "name": "spt/exception-handling",
+    "description": "Package for monitoring exceptions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Spawoz Technologies",
+            "email": "support@spawoz.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spt\\ExceptionHandling\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "-5"
+    }
+}
