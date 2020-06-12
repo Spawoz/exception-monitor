@@ -30,5 +30,5 @@ return [
     *
     */
 
-    'log_dashboard_url' => 'spt-monitoring'
+    'log_dashboard_url' => 'exception-monitor'
 ];
