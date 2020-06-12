@@ -1,8 +1,16 @@
-# SPT Exception Handler for Laravel
+# SPT Exception Monitor for Laravel
 
 ## About
 
-The `Exception handler` package allows you to view detailed reports of all exceptions occured in your laravel project and also notify via E-mail whenever an exception occurs.
+The `Exception monitor` package allows you to view detailed reports of all exceptions occured in your laravel project and also notify via E-mail whenever an exception occurs.
+
+## Installation
+
+You can install the package via Composer:
+
+```bash
+composer require spt/exception-monitor
+```
 
 ## Usage
 
