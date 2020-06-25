@@ -32,6 +32,6 @@ return [
     'from' => 'From',
     'type' => 'Type',
     'logs' => 'logs',
-    'copyright_text' => 'Copyright © 2020 Spawoz Technologies Pvt Ltd. All rights reserved.',
+    'copyright_text' => '',
     'detailed_message' => 'Detailed Message'
 ];
